@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Roller Coaster — Function Models (Article)</title>
+  <style>
+    :root{--max-width:900px;--accent:#0b63d6;--muted:#555;}
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;line-height:1.6;color:#111;background:#fbfbfd;padding:24px;}
+    .container{max-width:var(--max-width);margin:0 auto;background:white;padding:28px;border-radius:12px;box-shadow:0 6px 30px rgba(20,30,50,0.08);}
+    header{border-bottom:1px solid #eee;padding-bottom:18px;margin-bottom:20px;}
+    h1{font-size:28px;margin:0 0 6px;color:#0b3f91;}
+    p.lead{color:var(--muted);margin-top:0;}
+    .meta{font-size:13px;color:#7a7a7a;margin-top:6px;}
+    figure{margin:18px 0;}
+    img.preview{width:100%;border-radius:8px;display:block;box-shadow:0 8px 30px rgba(10,20,40,0.06);}
+    section.function{margin-top:26px;padding-top:18px;border-top:1px solid #f0f0f5;}
+    h2{font-size:20px;margin:0 0 6px;color:var(--accent);}
+    .equation{background:#f7f9ff;border-left:4px solid var(--accent);padding:12px;border-radius:6px;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, monospace;}
+    .desmos-help{font-size:13px;color:#666;margin-top:8px;}
+    .placeholders{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px;}
+    textarea{width:100%;min-height:120px;padding:10px;border-radius:8px;border:1px solid #e6e9ef;font-family:inherit;}
+    footer{margin-top:28px;border-top:1px dashed #eee;padding-top:14px;color:#666;font-size:14px;}
+    .small{font-size:13px;color:#777}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Modeling the Roller Coaster: Functions & Transformations</h1>
+      <p class="lead">An article-style project layout for presenting the nine required functions. Add your own equations and write your explanations in the boxes.</p>
+      <div class="meta">Student: <strong>[Your name]</strong> · Course: MHF4U · Project: Functions in the Real World</div>
+    </header>
+
+    <figure>
+      <img class="preview" src="image_2025-11-16_211105751.png" alt="Roller coaster photo">
+      <figcaption class="small">Pin the image in Desmos using anchors (-7,-4) and (7,4).</figcaption>
+    </figure>
+
+    <section class="function">
+      <h2>Function 1</h2>
+      <div class="equation">
+        <strong>Your function goes here:</strong><br>
+        <br>
+      </div>
+
+      <div class="placeholders">
+        <div>
+          <label><strong>Transformations Paragraph</strong></label>
+          <textarea placeholder="Explain how your chosen parent function was transformed to match the track."></textarea>
+        </div>
+        <div>
+          <label><strong>Domain & Range Paragraph</strong></label>
+          <textarea placeholder="Explain the domain and range you used, and why."></textarea>
+        </div>
+      </div>
+    </section>
+
+    <section class="function">
+      <h2>Function 2</h2>
+      <div class="equation"><strong>Your function here.</strong></div>
+      <div class="placeholders">
+        <textarea placeholder="Transformations..."></textarea>
+        <textarea placeholder="Domain & Range..."></textarea>
+      </div>
+    </section>
+
+    <section class="function">
+      <h2>Function 3</h2>
+      <div class="equation"><strong>Your function here.</strong></div>
+      <div class="placeholders">
+        <textarea placeholder="Transformations..."></textarea>
+        <textarea placeholder="Domain & Range..."></textarea>
+      </div>
+    </section>
+
+    <section class="function">
+      <h2>Function 4</h2>
+      <div class="equation"><strong>Your function here.</strong></div>
+      <div class="placeholders">
+        <textarea placeholder="Transformations..."></textarea>
+        <textarea placeholder="Domain & Range..."></textarea>
+      </div>
+    </section>
+
+    <section class="function">
+      <h2>Function 5</h2>
+      <div class="equation"><strong>Your function here.</strong></div>
+      <div class="placeholders">
+        <textarea placeholder="Transformations..."></textarea>
+        <textarea placeholder="Domain & Range..."></textarea>
+      </div>
+    </section>
+
+    <section class="function">
+      <h2>Function 6</h2>
+      <div class="equation"><strong>Your function here.</strong></div>
+      <div class="placeholders">
+        <textarea placeholder="Transformations..."></textarea>
+        <textarea placeholder="Domain & Range..."></textarea>
+      </div>
+    </section>
+
+    <section class="function">
+      <h2>Function 7</h2>
+      <div class="equation"><strong>Your function here.</strong></div>
+      <div class="placeholders">
+        <textarea placeholder="Transformations..."></textarea>
+        <textarea placeholder="Domain & Range..."></textarea>
+      </div>
+    </section>
+
+    <section class="function">
+      <h2>Function 8</h2>
+      <div class="equation"><strong>Your function here.</strong></div>
+      <div class="placeholders">
+        <textarea placeholder="Transformations..."></textarea>
+        <textarea placeholder="Domain & Range..."></textarea>
+      </div>
+    </section>
+
+    <section class="function">
+      <h2>Function 9</h2>
+      <div class="equation"><strong>Your function here.</strong></div>
+      <div class="placeholders">
+        <textarea placeholder="Transformations..."></textarea>
+        <textarea placeholder="Domain & Range..."></textarea>
+      </div>
+    </section>
+
+    <footer>
+      <div class="small">This template leaves all equations empty so you can enter your own models and explanations as required.</div>
+    </footer>
+
+  </div>
+</body>
+</html>
